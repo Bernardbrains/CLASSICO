@@ -15,6 +15,9 @@ https://bernardbrains.github.io/CLASSICO/.
 * Javascript
 * Jquery
 ##  KNOWN BUGS
+NONE
+## SECURITY 
+incase of any security or collaboration concern fell free to  contact me @bernardmuiruri207@gmail.com
 
 ## License:
 MIT LICENSE &copy; 2020 brainstech
