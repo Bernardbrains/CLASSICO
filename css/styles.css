@@ -1,0 +1,102 @@
+
+* {
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    color: orange;
+}
+#spantext {
+    color: black;
+}
+li {
+    display: inline;
+    margin-right: 20px;
+}
+#order-pizza {
+    color: green;
+}
+#list li {
+    font-size: 24px;
+    font-family: system-ui, serif;
+}
+.order-summary h1, .summary, .contact {
+    color:whitesmoke;
+    font-family: sans-serif;
+    margin-top: 30px;
+}
+input[type="email"] {
+    background: transparent;
+    border: 1px solid #ffffff;
+    padding: .8em .7em;
+    border-radius: 20px;
+    outline: none !important;
+    font-size: 14px;
+}
+.click-me, button[type=submit], .deliver, .delivernot {
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: inline-block;
+    letter-spacing: 2px;
+    background-color: grey;
+    outline: none;
+    padding: 12.5px 13px;
+    border: none;
+    border-radius: 33px;
+    font-size: 14px;
+}
+#order-pizza {
+    padding: 20px 50px 20px 50px;
+    font-family: fantasy;
+}
+.order-overlay {
+    height: inherit;
+    padding: 20px;
+    background-color:purple;
+    border-radius: 20px;
+}
+.checkout {
+    border-radius: 20px;
+    margin-top: 20px;
+}
+#list {
+    color:whitesmoke;
+}
+.menu-overlay {
+    height: inherit;
+    width: inherit;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+/*Background pic*/
+.landing {
+    background-image: url("../images/pizzawine.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.overlay {
+    background-color: rgba(0, 0, 0, 0.7);
+    height: 100%;
+}
+#push {
+    padding-top: 10%;
+}
+.landing-text h1 {
+    font-family: 'Gloria Hallelujah', cursive;
+      font-size: 60px;
+}
+a {
+    color: white;
+    font-size: 18px;
+    font-weight: normal;
+}
+.welcome {
+    padding-top: 50px;
+}
+.h2{
+    text-align: center;
+}
